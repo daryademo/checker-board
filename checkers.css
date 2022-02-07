@@ -1,0 +1,74 @@
+        <style> 
+
+            body {
+                font-family:Arial, Helvetica, sans-serif
+            }
+
+            #board {
+                width: 780px;
+                height: 780px;
+                background-color: burlywood;
+                border: 10px solid black ;
+                display: inline-block;
+
+
+            }
+    
+
+            .lightsquare {
+                height: 100px;
+                width: 100px;
+                background-color:burlywood;
+                margin: -3px;;
+                display: inline-block;
+
+
+            }
+
+            .darksquare {
+                height: 100px;
+                width: 100px;
+                background-color:saddlebrown;
+                margin: -3px;
+                display: inline-block;
+
+
+
+            }
+
+            .blackpiece {
+                height: 80px;
+                width: 80px;
+                border-radius: 50%;
+                background-color:rgb(44, 43, 43);
+                border: 5px solid black ;
+                position: relative;
+                margin: 5px;
+
+            }
+
+            .redpiece {
+                height: 80px;
+                width: 80px;
+                border-radius: 50%;
+                border: rgb(109, 24, 24) 5px solid;
+                background-color:rgb(199, 46, 46);
+                position: relative;
+                margin: 5px;
+            }
+
+
+            
+            </style>
+
+
+    
+
+
+            position:;
+            height: 100px;
+            width: 100px;
+            background-color: burlywood;
+            margin: 0px;
+            border: ;
+            display: ;
